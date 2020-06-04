@@ -1,0 +1,25 @@
+body{
+  background-color: #f4f4f4; font-family: helvetica;
+}
+
+hr {
+
+  border-style: none;
+  border-top: dotted;
+  height: 0px;
+  width: 5%;
+  border-color: lightgray;
+  border-width: 5px;
+}
+
+img{
+  height: 300px;
+}
+
+img:hover {background-color: #f79071}
+
+h1 {
+  color: #f79071; font-family: helvetica;
+}
+
+h3 {color: #49beb7; font-family: helvetica;}
